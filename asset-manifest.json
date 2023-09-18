@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Exe-Figueroa/02-react-router-todoMachine.git/static/css/main.4d28b596.css",
+    "main.js": "/Exe-Figueroa/02-react-router-todoMachine.git/static/js/main.b1b2c722.js",
+    "index.html": "/Exe-Figueroa/02-react-router-todoMachine.git/index.html",
+    "static/media/edit.svg": "/Exe-Figueroa/02-react-router-todoMachine.git/static/media/edit.506cb7c87c2d582a929b0817c441d1d7.svg",
+    "static/media/delete.svg": "/Exe-Figueroa/02-react-router-todoMachine.git/static/media/delete.331149da222541bc87c25bf8d775a070.svg",
+    "static/media/check.svg": "/Exe-Figueroa/02-react-router-todoMachine.git/static/media/check.fa4fb594b16385306a04b9c87c0feb55.svg",
+    "main.4d28b596.css.map": "/Exe-Figueroa/02-react-router-todoMachine.git/static/css/main.4d28b596.css.map",
+    "main.b1b2c722.js.map": "/Exe-Figueroa/02-react-router-todoMachine.git/static/js/main.b1b2c722.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d28b596.css",
+    "static/js/main.b1b2c722.js"
+  ]
+}
