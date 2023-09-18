@@ -3,7 +3,7 @@ import './TodoForm.css';
 import { useNavigate } from 'react-router-dom';
 
 function TodoForm(props) {
-  const [newTodoValue, setNewTodoValue] = React.useState('');
+  const [newTodoValue, setNewTodoValue] = React.useState(props.defaultText ||'');
   const navigate = useNavigate();
 
   const onChange = (event) => {
@@ -25,7 +25,7 @@ function TodoForm(props) {
       <textarea
         value={newTodoValue}
         onChange={onChange}
-        placeholder="Cortar la cebolla oara el almuerzo"
+        placeholder="New task"
       />
       <div className="TodoForm-buttonContainer">
         <button
